@@ -3346,7 +3346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module:Olimex_MOD-WIFI-ESP8266-DEV"
+		(property "Footprint" "Module:Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles"
 			(at 120.65 119.38 0)
 			(effects
 				(font
